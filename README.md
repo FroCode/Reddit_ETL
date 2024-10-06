@@ -38,7 +38,7 @@ The pipeline is designed to:
 ## System Setup
 1. Clone the repository.
    ```bash
-    git clone https://github.com/airscholar/RedditDataEngineering.git
+    git clone https://github.com/FroCode/Reddit_ETL.git
    ```
 2. Create a virtual environment.
    ```bash
