@@ -65,6 +65,3 @@ The pipeline is designed to:
     open http://localhost:8080
    ```
 
-
-## Video
-[![Reddit Data Engineering](https://img.youtube.com/vi/LSlt6iVI_9Y/0.jpg)](https://www.youtube.com/watch?v=LSlt6iVI_9Y)
